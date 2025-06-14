@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import requests
 
 
-SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL") or "https://hooks.slack.com/services/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"
+SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL")
 DATA_FILE = "gpu_status.json"
 NUM_GPUS = 4
 
