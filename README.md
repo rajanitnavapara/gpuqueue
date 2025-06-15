@@ -113,3 +113,4 @@ Pull requests welcome — especially for dashboard improvements or Slack/Discord
 ## 📫 Feedback / Contact
 Built by Rajanit Navapara — feedback welcome via GitHub Issues or [rajanitnavapara9999@gmail.com].
 Follow progress on X/Twitter or LinkedIn.
+LinkedIn : https://www.linkedin.com/in/rajanit-navapara-285298135/
